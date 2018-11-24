@@ -1,0 +1,9 @@
+..
+cd ****
+git init
+git status
+git add .
+git status
+git commit -m "*********"
+git remote add origin https://github.com/**********.git
+git push -u origin master
